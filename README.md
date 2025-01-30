@@ -58,8 +58,7 @@ The resulting system is able to:
     <img src="image\Snapshots\Subject_details_.png" alt="Subject_details_" width=49%/><br><br>
     <img src="image\Snapshots\Announcement_page_.png" alt="Announcement_page_" width=49%/>
     <img src="image\Snapshots\Attendance_page_.png" alt="Attendance_page_" width=49%/><br><br>
-    <img src="image\Snapshots\Internals_marks_page_.png" alt="Internals_marks_page_" width=49%/>
-    <img src="image\Snapshots\Exam_marks_page_.png" alt="Exam_marks_page_" width=49%/><br><br>
+
 </p>
 
 ## Software Requirements
@@ -79,6 +78,6 @@ The resulting system is able to:
 - Goto: `https://localhost/`
 - Testing login details (teacher):
     ```
-    Name:     Thirumal
+    Name:     umesh
     Password: 123456789
     ```
