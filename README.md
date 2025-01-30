@@ -42,20 +42,13 @@ The resulting system is able to:
 ### Teacher View
 ---
 <p align="center">
-    <img src="image\Snapshots\Welcome_page.png" alt="Welcome_page" width=49%/>
-    <img src="image\Snapshots\Login.png" alt="Login" width=49%/> <br><br>
-    <img src="image\Snapshots\Register.png" alt="Register" width=49%/>
-    <img src="image\Snapshots\Home_page.png" alt="Home_page" width=49%/><br><br>
     <img src="image\Snapshots\Student_list.png" alt="Student_list" width=49%/>
     <img src="image\Snapshots\Search_student.png" alt="Search_student" width=49%/><br><br>
     <img src="image\Snapshots\View_student_details.png" alt="View_student_details" width=49%/>
     <img src="image\Snapshots\Admit_student.png" alt="Admit_student" width=49%/><br><br>
     <img src="image\Snapshots\Subject_details.png" alt="Subject_details" width=49%/>
     <img src="image\Snapshots\Edit_subject_details.png" alt="Edit_subject_details" width=49%/><br><br>
-    <img src="image\Snapshots\Announcement_page.png" alt="Announcement_page" width=49%/>
-    <img src="image\Snapshots\Attendance_page.png" alt="Attendance_page" width=49%/><br><br>
-    <img src="image\Snapshots\Internals_marks_page.png" alt="Internals_marks_page" width=49%/>
-    <img src="image\Snapshots\Exam_marks_page.png" alt="Exam_marks_page" width=49%/><br><br>
+
 </p>
 
 ### Student View
