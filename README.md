@@ -69,7 +69,6 @@ The resulting system is able to:
     <img src="image\Snapshots\Exam_marks_page_.png" alt="Exam_marks_page_" width=49%/><br><br>
 </p>
 
-For more details about the project, please checkout [Final Report](Final-Report.pdf)
 ## Software Requirements
 * [XAMPP](https://www.apachefriends.org/index.html)
 * Browser of your choice
@@ -87,7 +86,6 @@ For more details about the project, please checkout [Final Report](Final-Report.
 - Goto: `https://localhost/`
 - Testing login details (teacher):
     ```
-    Name:     Thirumalai
+    Name:     Thirumal
     Password: 123456789
     ```
-If you have any doubt related to this project, feel free to contact me on [twitter](https://twitter.com/sh0ck_thi) or [mail](mailto:thirumalaishaktivel@gmail.com) me.
